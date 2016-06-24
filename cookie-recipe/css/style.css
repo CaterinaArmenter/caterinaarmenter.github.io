@@ -1,0 +1,32 @@
+body {
+	display: inline-block;
+	background-color: #AC4ABD;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 100;
+	color: white;
+
+}
+
+h1 {
+	color: white;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 100;
+	text-align: center;
+
+}
+
+img {
+	width: 100%;
+	border-radius: 50%;
+	border-style: solid;
+	
+
+	display: block;
+	margin: auto;
+
+}
+
+p {
+	background-color: #BC4ABD;
+
+}
